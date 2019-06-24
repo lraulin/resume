@@ -1,0 +1,99 @@
+{
+  "Military Service": {
+    "Branch": "US Coast Guard",
+    "Date of Discharge": null,
+    "Date of Entry": null,
+    "Highest Rank": "E4",
+    "Notes": [
+      "Top of class in Basic Training.",
+      "Admiral's Commendation Medal.",
+      "Sharpshooter ribbon."
+    ],
+    "Specialty": "Boatswain's Mate"
+  },
+  "Work Experience": [
+    {
+      "Company": "Workforce Opportunity Services",
+      "End Date": "2019-09",
+      "Job Title": "Full Stack Web Developer",
+      "Projects": [
+        {
+          "Technologies": ["Node/Express", "React/Redux", "Postgres", "AWS"],
+          "Title": "Twitter Incident Report Map"
+        }
+      ],
+      "Start Date": "2018-11",
+      "Supervisor": {
+        "Email": "daniel.morgan@dot.gov",
+        "Name": "Dan Morgan",
+        "Phone": "(202) 366-4308"
+      },
+      "Under Contract To": "US Department of Transportation"
+    },
+    {
+      "Address": {
+        "City": "Seoul",
+        "Country": "South Korea",
+        "Phone": { "Country Code": 82, "Number": "281-0507" },
+        "Street": "1080 Geumhodong 1(il)-ga Seongdong-gu"
+      },
+      "Company": "Jeongsang Language School",
+      "End Date": "2017-07",
+      "Job Title": "English Convsersation Instructor",
+      "Start Date": "2015-02",
+      "Supervisor": null
+    },
+    {
+      "Address": {
+        "City": "Suwon",
+        "Country": "South Korea",
+        "Phone": { "Country Code": 82, "Number": "31-273-3551" },
+        "Street": "998-6 Yeongtong-dong, Yeongtong-gu"
+      },
+      "Company": "Lee's English Institute",
+      "End Date": "2017-07",
+      "Job Title": "English Convsersation Instructor",
+      "Start Date": "2015-02",
+      "Supervisor": "Aidan Yoo"
+    },
+    {
+      "Address": {
+        "City": "Suwon",
+        "Country": "South Korea",
+        "Phone": { "Country Code": 82, "Number": "31-273-3551" },
+        "Street": "998-6 Yeongtong-dong, Yeongtong-gu"
+      },
+      "Company": "English Mentor",
+      "End Date": "2012-07",
+      "Job Title": "English Convsersation Instructor",
+      "Start Date": "2011-03",
+      "Supervisor": "Aidan Yoo"
+    },
+    {
+      "Address": {
+        "City": "Seoul",
+        "Country": "South Korea",
+        "Phone": { "Country Code": 82, "Number": null },
+        "Street": null
+      },
+      "Company": "Plus English Academy",
+      "End Date": null,
+      "Job Title": "English Convsersation Instructor",
+      "Start Date": null,
+      "Supervisor": null
+    },
+    {
+      "Address": {
+        "City": "Ansan",
+        "Country": "South Korea",
+        "Phone": { "Country Code": 82, "Number": null },
+        "Street": null
+      },
+      "Company": "Avalon English",
+      "End Date": null,
+      "Job Title": "English Convsersation Instructor",
+      "Start Date": null,
+      "Supervisor": null
+    }
+  ]
+}

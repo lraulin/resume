@@ -1,0 +1,116 @@
+<Work_Experience>
+  <Company>Workforce Opportunity Services</Company>
+  <Under_Contract_To>US Department of Transportation</Under_Contract_To>
+  <Job_Title>Full Stack Web Developer</Job_Title>
+  <Start_Date>2018-11</Start_Date>
+  <End_Date>2019-09</End_Date>
+  <Supervisor>
+    <Name>Dan Morgan</Name>
+    <Phone>(202) 366-4308</Phone>
+    <Email>daniel.morgan@dot.gov</Email>
+  </Supervisor>
+  <Projects>
+    <Title>Twitter Incident Report Map</Title>
+    <Technologies>Node/Express</Technologies>
+    <Technologies>React/Redux</Technologies>
+    <Technologies>Postgres</Technologies>
+    <Technologies>AWS</Technologies>
+  </Projects>
+</Work_Experience>
+<Work_Experience>
+  <Company>Jeongsang Language School</Company>
+  <Job_Title>English Convsersation Instructor</Job_Title>
+  <Start_Date>2015-02</Start_Date>
+  <End_Date>2017-07</End_Date>
+  <Supervisor/>
+  <Address>
+    <Street>1080 Geumhodong 1(il)-ga Seongdong-gu</Street>
+    <City>Seoul</City>
+    <Country>South Korea</Country>
+    <Phone>
+      <Country Code>82</Country Code>
+<Number>281-0507</Number>
+</Phone>
+</Address>
+</Work_Experience>
+<Work_Experience>
+<Company>Lee's English Institute</Company>
+<Job_Title>English Convsersation Instructor</Job_Title>
+<Start_Date>2015-02</Start_Date>
+<End_Date>2017-07</End_Date>
+<Supervisor>Aidan Yoo</Supervisor>
+<Address>
+<Street>998-6 Yeongtong-dong, Yeongtong-gu</Street>
+<City>Suwon</City>
+<Country>South Korea</Country>
+<Phone>
+<Country_Code>82</Country_Code>
+<Number>31-273-3551</Number>
+</Phone>
+</Address>
+</Work_Experience>
+<Work_Experience>
+<Company>English Mentor</Company>
+<Job_Title>English Convsersation Instructor</Job_Title>
+<Start_Date>2011-03</Start_Date>
+<End_Date>2012-07</End_Date>
+<Supervisor>Aidan Yoo</Supervisor>
+<Address>
+<Street>998-6 Yeongtong-dong, Yeongtong-gu</Street>
+<City>Suwon</City>
+<Country>South Korea</Country>
+<Phone>
+<Country_Code>82</Country_Code>
+<Number>31-273-3551</Number>
+</Phone>
+</Address>
+</Work_Experience>
+<Work_Experience>
+<Company>Plus English Academy</Company>
+<Job_Title>English Convsersation Instructor</Job_Title>
+<Start_Date/>
+<End_Date/>
+<Supervisor/>
+<Address>
+<Street/>
+<City>Seoul</City>
+<Country>South Korea</Country>
+<Phone>
+<Country_Code>82</Country_Code>
+<Number/>
+</Phone>
+</Address>
+</Work_Experience>
+<Work_Experience>
+<Company>Avalon English</Company>
+<Job_Title>English Convsersation Instructor</Job_Title>
+<Start Date/>
+<End_Date/>
+<Supervisor>
+<Name>Erin Park</Name>
+<Phone>+82 (031) 416-0039</Phone>
+</Supervisor>
+<Director>
+<Name>Hyung Lee</Name>
+<Phone>+82 (010) 47</Phone>
+</Director>
+<Address>
+<Street/>
+<City>Ansan</City>
+<Country>South Korea</Country>
+<Phone>
+<Country Code>82</Country Code>
+<Number/>
+</Phone>
+</Address>
+</Work_Experience>
+<Military_Service>
+<Branch>US Coast Guard</Branch>
+<Date_of_Entry/>
+<Date_of_Discharge/>
+<Highest_Rank>E4</Highest_Rank>
+<Specialty>Boatswain's Mate</Specialty>
+<Notes>Top of class in Basic Training.</Notes>
+<Notes>Admiral's Commendation Medal.</Notes>
+<Notes>Sharpshooter ribbon.</Notes>
+</Military_Service>
