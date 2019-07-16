@@ -1,116 +1,261 @@
-<Work_Experience>
-  <Company>Workforce Opportunity Services</Company>
-  <Under_Contract_To>US Department of Transportation</Under_Contract_To>
-  <Job_Title>Full Stack Web Developer</Job_Title>
-  <Start_Date>2018-11</Start_Date>
-  <End_Date>2019-09</End_Date>
-  <Supervisor>
-    <Name>Dan Morgan</Name>
-    <Phone>(202) 366-4308</Phone>
-    <Email>daniel.morgan@dot.gov</Email>
-  </Supervisor>
-  <Projects>
-    <Title>Twitter Incident Report Map</Title>
-    <Technologies>Node/Express</Technologies>
-    <Technologies>React/Redux</Technologies>
-    <Technologies>Postgres</Technologies>
-    <Technologies>AWS</Technologies>
-  </Projects>
-</Work_Experience>
-<Work_Experience>
-  <Company>Jeongsang Language School</Company>
-  <Job_Title>English Convsersation Instructor</Job_Title>
-  <Start_Date>2015-02</Start_Date>
-  <End_Date>2017-07</End_Date>
-  <Supervisor/>
-  <Address>
-    <Street>1080 Geumhodong 1(il)-ga Seongdong-gu</Street>
-    <City>Seoul</City>
-    <Country>South Korea</Country>
-    <Phone>
-      <Country Code>82</Country Code>
-<Number>281-0507</Number>
-</Phone>
-</Address>
-</Work_Experience>
-<Work_Experience>
-<Company>Lee's English Institute</Company>
-<Job_Title>English Convsersation Instructor</Job_Title>
-<Start_Date>2015-02</Start_Date>
-<End_Date>2017-07</End_Date>
-<Supervisor>Aidan Yoo</Supervisor>
-<Address>
-<Street>998-6 Yeongtong-dong, Yeongtong-gu</Street>
-<City>Suwon</City>
-<Country>South Korea</Country>
-<Phone>
-<Country_Code>82</Country_Code>
-<Number>31-273-3551</Number>
-</Phone>
-</Address>
-</Work_Experience>
-<Work_Experience>
-<Company>English Mentor</Company>
-<Job_Title>English Convsersation Instructor</Job_Title>
-<Start_Date>2011-03</Start_Date>
-<End_Date>2012-07</End_Date>
-<Supervisor>Aidan Yoo</Supervisor>
-<Address>
-<Street>998-6 Yeongtong-dong, Yeongtong-gu</Street>
-<City>Suwon</City>
-<Country>South Korea</Country>
-<Phone>
-<Country_Code>82</Country_Code>
-<Number>31-273-3551</Number>
-</Phone>
-</Address>
-</Work_Experience>
-<Work_Experience>
-<Company>Plus English Academy</Company>
-<Job_Title>English Convsersation Instructor</Job_Title>
-<Start_Date/>
-<End_Date/>
-<Supervisor/>
-<Address>
-<Street/>
-<City>Seoul</City>
-<Country>South Korea</Country>
-<Phone>
-<Country_Code>82</Country_Code>
-<Number/>
-</Phone>
-</Address>
-</Work_Experience>
-<Work_Experience>
-<Company>Avalon English</Company>
-<Job_Title>English Convsersation Instructor</Job_Title>
-<Start Date/>
-<End_Date/>
-<Supervisor>
-<Name>Erin Park</Name>
-<Phone>+82 (031) 416-0039</Phone>
-</Supervisor>
-<Director>
-<Name>Hyung Lee</Name>
-<Phone>+82 (010) 47</Phone>
-</Director>
-<Address>
-<Street/>
-<City>Ansan</City>
-<Country>South Korea</Country>
-<Phone>
-<Country Code>82</Country Code>
-<Number/>
-</Phone>
-</Address>
-</Work_Experience>
-<Military_Service>
-<Branch>US Coast Guard</Branch>
-<Date_of_Entry/>
-<Date_of_Discharge/>
-<Highest_Rank>E4</Highest_Rank>
-<Specialty>Boatswain's Mate</Specialty>
-<Notes>Top of class in Basic Training.</Notes>
-<Notes>Admiral's Commendation Medal.</Notes>
-<Notes>Sharpshooter ribbon.</Notes>
-</Military_Service>
+<?xml version="1.0" encoding="UTF-8" ?>
+<root>
+    <Name type="str">Lee Raulin</Name>
+    <Contact type="dict">
+        <Email type="str">leeraulin@gmail.com</Email>
+        <Github type="str">https://github.com/lraulin</Github>
+        <LinkedIn type="str">https://www.linkedin.com/in/leeraulin/</LinkedIn>
+        <Twitter type="str">https://twitter.com/RaulinLee</Twitter>
+    </Contact>
+    <Technical_Skills type="dict">
+        <OS type="list">
+            <item type="str">Windows</item>
+            <item type="str">Linux</item>
+            <item type="str">OSX</item>
+        </OS>
+        <Version_Control type="str">Git/Github</Version_Control>
+        <Database type="list">
+            <item type="str">Postgres</item>
+            <item type="str">MS SQL Server</item>
+            <item type="str">SQLite</item>
+            <item type="str">Mongo</item>
+            <item type="str">Firebase</item>
+        </Database>
+        <Languages type="list">
+            <item type="dict">
+                <Title type="str">JavaScript</Title>
+                <PluralSight_SkillIQ type="dict">
+                    <Score type="int">240</Score>
+                    <Percentile type="int">94</Percentile>
+                    <Description type="str">Expert</Description>
+                    <Date type="str">2018-10-10</Date>
+                </PluralSight_SkillIQ>
+                <Details type="list">
+                    <item type="str">Node</item>
+                    <item type="str">Express</item>
+                    <item type="str">React</item>
+                    <item type="str">Redux</item>
+                    <item type="str">Typescript</item>
+                </Details>
+            </item>
+            <item type="dict">
+                <Title type="str">Python</Title>
+                <PluralSight_SkillIQ type="dict">
+                    <Score type="int">217</Score>
+                    <Percentile type="int">87</Percentile>
+                    <Description type="str">Expert</Description>
+                    <Date type="str">2019-03-28</Date>
+                </PluralSight_SkillIQ>
+                <Details type="null"></Details>
+            </item>
+            <item type="dict">
+                <Title type="str">C#</Title>
+                <PluralSight_SkillIQ type="dict">
+                    <Score type="int">137</Score>
+                    <Percentile type="int">41</Percentile>
+                    <Description type="str">Proficient</Description>
+                    <Date type="str">2018-10-10</Date>
+                </PluralSight_SkillIQ>
+                <Details type="list">
+                    <item type="str">ASP.NET Webforms</item>
+                    <item type="str">ASP.NET Core</item>
+                    <item type="str">ASP.NET MVC</item>
+                    <item type="str">MS SQL Server</item>
+                </Details>
+            </item>
+        </Languages>
+    </Technical_Skills>
+    <Work_Experience type="list">
+        <item type="dict">
+            <Company type="str">Workforce Opportunity Services</Company>
+            <Under_Contract_To type="str">US Department of Transportation</Under_Contract_To>
+            <Job_Title type="str">Full Stack Web Developer</Job_Title>
+            <Start_Date type="str">2018-11</Start_Date>
+            <End_Date type="str">2019-09</End_Date>
+            <Supervisor type="dict">
+                <Name type="str">Dan Morgan</Name>
+                <Phone type="str">(202) 366-4308</Phone>
+                <Email type="str">daniel.morgan@dot.gov</Email>
+            </Supervisor>
+            <Projects type="list">
+                <item type="dict">
+                    <Title type="str">Twitter Incident Report Map</Title>
+                    <Environment type="list">
+                        <item type="str">Node/Express</item>
+                        <item type="str">React/Redux</item>
+                        <item type="str">Postgres</item>
+                        <item type="str">AWS</item>
+                        <item type="str">MacOSX/Linux</item>
+                    </Environment>
+                    <Description type="str">The server component monitors Twitter for keywords indicating a transportation-related incident from a verified account, and saves them in a database. The client portion displays the location of all Tweets or their users on the map.</Description>
+                    <Client type="str">Dan Morgan on behalf of the Department of Transportation Crisis Management Office.</Client>
+                    <Repo_Link type="str">https://github.com/lraulin/incident-map</Repo_Link>
+                    <Demo_Link type="str">https://incident-report-map.firebaseapp.com</Demo_Link>
+                </item>
+                <item type="dict">
+                    <Title type="str">DNS Script</Title>
+                    <Technologies type="list">
+                        <item type="str">Node</item>
+                        <item type="str">Linux/Bash</item>
+                    </Technologies>
+                    <Description type="str">Created a script to execute dig command against list of domains every hour, store results, and generate a daily report of all DNS record changes that is automatically emailed to a mailing list.</Description>
+                    <Client type="str">DoT OST Cyber Security Team.</Client>
+                </item>
+            </Projects>
+        </item>
+        <item type="dict">
+            <Company type="str">Jeongsang Language School</Company>
+            <Job_Title type="str">English Convsersation Instructor</Job_Title>
+            <Start_Date type="str">2015-02</Start_Date>
+            <End_Date type="str">2017-07</End_Date>
+            <Supervisor type="null"></Supervisor>
+            <Address type="dict">
+                <Street type="str">1080 Geumhodong 1(il)-ga Seongdong-gu</Street>
+                <City type="str">Seoul</City>
+                <Country type="str">South Korea</Country>
+                <Phone type="dict">
+                    <Country_Code type="int">82</Country_Code>
+                    <Number type="str">281-0507</Number>
+                </Phone>
+            </Address>
+        </item>
+        <item type="dict">
+            <Company type="str">Lee&apos;s English Institute</Company>
+            <Job_Title type="str">English Convsersation Instructor</Job_Title>
+            <Start_Date type="str">2015-02</Start_Date>
+            <End_Date type="str">2017-07</End_Date>
+            <Supervisor type="str">Aidan Yoo</Supervisor>
+            <Address type="dict">
+                <Street type="str">998-6 Yeongtong-dong, Yeongtong-gu</Street>
+                <City type="str">Suwon</City>
+                <Country type="str">South Korea</Country>
+                <Phone type="dict">
+                    <Country_Code type="int">82</Country_Code>
+                    <Number type="str">31-273-3551</Number>
+                </Phone>
+            </Address>
+        </item>
+        <item type="dict">
+            <Company type="str">English Mentor</Company>
+            <Job_Title type="str">English Convsersation Instructor</Job_Title>
+            <Start_Date type="str">2011-03</Start_Date>
+            <End_Date type="str">2012-07</End_Date>
+            <Supervisor type="str">Aidan Yoo</Supervisor>
+            <Address type="dict">
+                <Street type="str">998-6 Yeongtong-dong, Yeongtong-gu</Street>
+                <City type="str">Suwon</City>
+                <Country type="str">South Korea</Country>
+                <Phone type="dict">
+                    <Country_Code type="int">82</Country_Code>
+                    <Number type="str">31-273-3551</Number>
+                </Phone>
+            </Address>
+        </item>
+        <item type="dict">
+            <Company type="str">Plus English Academy</Company>
+            <Job_Title type="str">English Convsersation Instructor</Job_Title>
+            <Start_Date type="null"></Start_Date>
+            <End_Date type="null"></End_Date>
+            <Supervisor type="null"></Supervisor>
+            <Address type="dict">
+                <Street type="null"></Street>
+                <City type="str">Seoul</City>
+                <Country type="str">South Korea</Country>
+                <Phone type="dict">
+                    <Country_Code type="int">82</Country_Code>
+                    <Number type="null"></Number>
+                </Phone>
+            </Address>
+        </item>
+        <item type="dict">
+            <Company type="str">Avalon English</Company>
+            <Job_Title type="str">English Convsersation Instructor</Job_Title>
+            <Start_Date type="null"></Start_Date>
+            <End_Date type="null"></End_Date>
+            <Supervisor type="dict">
+                <Name type="str">Erin Park</Name>
+                <Phone type="str">+82 (031) 416-0039</Phone>
+            </Supervisor>
+            <Director type="dict">
+                <Name type="str">Hyung Lee</Name>
+                <Phone type="str">+82 (010) 47</Phone>
+            </Director>
+            <Address type="dict">
+                <Street type="null"></Street>
+                <City type="str">Ansan</City>
+                <Country type="str">South Korea</Country>
+                <Phone type="dict">
+                    <Country_Code type="int">82</Country_Code>
+                    <Number type="null"></Number>
+                </Phone>
+            </Address>
+        </item>
+    </Work_Experience>
+    <Military_Service type="dict">
+        <Branch type="str">US Coast Guard</Branch>
+        <Date_of_Entry type="str">2005-04-26</Date_of_Entry>
+        <Date_of_Discharge type="str">2008-01-31</Date_of_Discharge>
+        <Highest_Rank type="str">E4</Highest_Rank>
+        <Specialty type="str">Boatswain&apos;s Mate</Specialty>
+        <Character_of_Service type="str">Honorable</Character_of_Service>
+        <Awards type="list">
+            <item type="str">Coast Guard Meritorious Team Commendation</item>
+            <item type="str">Coast Guard Meritorious Unit Commendation</item>
+            <item type="str">Coast Guard Pistol Sharpshooter Ribbon</item>
+            <item type="str">Coast Guard Presidential Unit Citation</item>
+        </Awards>
+        <Military_Education type="list">
+            <item type="dict">
+                <Title type="str">Boatswain&apos;s Mate &quot;A&quot; School</Title>
+                <Duration type="str">11 weeks</Duration>
+                <Completed type="str">Sep 2005</Completed>
+            </item>
+            <item type="dict">
+                <Title type="str">Aid Positioning (ANC-AP)</Title>
+                <Duration type="str">1 week</Duration>
+                <Completed type="str">Feb 2006</Completed>
+            </item>
+            <item type="dict">
+                <Title type="str">IS-700 Intro to NIMS IS-700</Title>
+                <Duration type="str">1 day</Duration>
+                <Completed type="str">Mar 2006</Completed>
+            </item>
+            <item type="dict">
+                <Title type="str">IS-800 Intro to NRP IS-800</Title>
+                <Duration type="str">1 day</Duration>
+                <Completed type="str">Mar 2006</Completed>
+            </item>
+            <item type="dict">
+                <Title type="str">Incident Command System I-122</Title>
+                <Duration type="str">1 day</Duration>
+                <Completed type="str">Mar 2006</Completed>
+            </item>
+            <item type="dict">
+                <Title type="str">CR/HRA Basic Human Awareness</Title>
+                <Duration type="str">1 day</Duration>
+                <Completed type="str">Feb 2007</Completed>
+            </item>
+            <item type="dict">
+                <Title type="str">CR/HRA Sexual Harassment Prevention</Title>
+                <Duration type="str">1 day</Duration>
+                <Completed type="str">Feb 2007</Completed>
+            </item>
+        </Military_Education>
+        <Notes type="list">
+            <item type="str">Top of class in Basic Training.</item>
+        </Notes>
+    </Military_Service>
+    <Education type="list">
+        <item type="dict">
+            <Degree type="str">Master of Arts in General Psychology</Degree>
+            <Area_of_Focus type="str">Attention Disorders</Area_of_Focus>
+            <Institution type="str">Northcentral University</Institution>
+            <Address type="str">8667 E Hartford Dr Ste 100, Scottsdale, AZ 85255</Address>
+        </item>
+        <item type="dict">
+            <Degree type="str">Batchelor of Arts in Psychology</Degree>
+            <Institution type="str">St. Mary&apos;s College of Maryland</Institution>
+            <Address type="str">47645 College Dr, St Marys City, MD 20686</Address>
+        </item>
+    </Education>
+</root>
