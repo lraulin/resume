@@ -92,7 +92,7 @@ Professional_Experience:
       City: Seoul
       Country: South Korea
       Phone:
-        Country_Code: +82
+        Country Code: +82
         Number: 281-0507
   - Company: Lee's English Institute
     Type: Teaching
@@ -105,15 +105,14 @@ Professional_Experience:
       City: Suwon
       Country: South Korea
       Phone:
-        Country_Code: 82
-        Area_Code: 31
-        Number: 2733551
+        Country_Code: +82
+        Number: 31-273-3551
   - Company: English Mentor
     Type: Teaching
     Job_Title: English Convsersation Instructor
     Start_Date: 2011-03
     End_Date: 2012-07
-    Supervisor:
+    Supervisor: Aidan Yoo
     Address:
       Street: 998-6 Yeongtong-dong, Yeongtong-gu
       City: Suwon
@@ -206,12 +205,6 @@ Education:
       State: MD
       Zip: 20686
 Hobbies:
-  - Indian club swinging
-  - jettlebells
-  - kayaking
-  - contact juggling
-  - reading
-    - history
-    - psychology
-    - evolution
-    - computer science
+  - Physical:
+      - kayaking
+      -
