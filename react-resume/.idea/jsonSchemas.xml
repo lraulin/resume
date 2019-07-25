@@ -3,11 +3,11 @@
   <component name="JsonSchemaMappingsProjectConfiguration">
     <state>
       <map>
-        <entry key="behat">
+        <entry key="Prettier">
           <value>
             <SchemaInfo>
-              <option name="name" value="behat" />
-              <option name="relativePathToSchema" value="http://json.schemastore.org/behat" />
+              <option name="name" value="Prettier" />
+              <option name="relativePathToSchema" value="http://json.schemastore.org/prettierrc" />
               <option name="applicationDefined" value="true" />
               <option name="patterns">
                 <list>

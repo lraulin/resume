@@ -1,7 +1,8 @@
 import React from 'react';
 
 const ExperienceItem = ({job}) => {
-  console.log(job)
+  console.log("ExperienceItem.js");
+  console.log(job);
   return (
     <div>
       <h3>{job.Job_Title}</h3>

@@ -1,5 +1,3 @@
-#!/bin/sh
+#!/bin/bash
 
-# Convert YAML file to JSON.
-FILENAME="${1%.*}"
-yq r -j ${1} > "${FILENAME}.json"
+yq r -j resume.yaml >resume.json

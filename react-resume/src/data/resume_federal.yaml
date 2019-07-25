@@ -1,10 +1,21 @@
 Contact_Info:
   Name: Lee Raulin
   Email: leeraulin@gmail.com
+  Address:
+    Street: 5006 Valley Drive
+    City: Chesapeake Beach
+    State: MD
+    Zip: 20732
+  Phone: (443) 684-8939
+  Clearance: Public Trust Clearance Pending
+  Availability:
+    Year: 2019
+    Month: September
+    Day:
   Github: https://github.com/lraulin
   LinkedIn: https://www.linkedin.com/in/leeraulin/
   Twitter: https://twitter.com/RaulinLee
-Professional_Summary:
+Objective Statement: To blah blah blah blah...
 Key_Skills:
   Technical_Skills:
     OS:
@@ -206,12 +217,17 @@ Education:
       State: MD
       Zip: 20686
 Hobbies:
-  - Indian club swinging
-  - jettlebells
-  - kayaking
-  - contact juggling
+  - fitness
+    - Indian club swinging
+    - macebell
+    - kettlebell
+    - calisthenics
+    - stretching/yoga
   - reading
-    - history
+    - computer science
     - psychology
     - evolution
-    - computer science
+    - history
+  - kayaking
+  - contact juggling
+  - camping
