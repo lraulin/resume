@@ -1,9 +1,18 @@
 {
   "Contact_Info": {
+    "Address": {
+      "City": "Chesapeake Beach",
+      "State": "MD",
+      "Street": "5006 Valley Drive",
+      "Zip": 20732
+    },
+    "Availability": { "Day": null, "Month": "September", "Year": 2019 },
+    "Clearance": "Public Trust Clearance Pending",
     "Email": "leeraulin@gmail.com",
     "Github": "https://github.com/lraulin",
     "LinkedIn": "https://www.linkedin.com/in/leeraulin/",
     "Name": "Lee Raulin",
+    "Phone": "(443) 684-8939",
     "Twitter": "https://twitter.com/RaulinLee"
   },
   "Education": [
@@ -30,7 +39,13 @@
       "Institution": "St. Mary's College of Maryland"
     }
   ],
-  "Hobbies": [{ "Physical": ["kayaking", null] }],
+  "Hobbies": [
+    "fitness - Indian club swinging - macebell - kettlebell - calisthenics - stretching/yoga",
+    "reading - computer science - psychology - evolution - history",
+    "kayaking",
+    "contact juggling",
+    "camping"
+  ],
   "Key_Skills": {
     "Technical_Skills": {
       "Database": ["Postgres", "Firebase", "SQLite"],
@@ -127,6 +142,7 @@
     "Notes": ["Top of class in Basic Training."],
     "Specialty": "Boatswain's Mate"
   },
+  "Objective_Statement": "To blah blah blah blah...",
   "Professional_Experience": [
     {
       "Company": "Workforce Opportunity Services",
@@ -174,7 +190,7 @@
       "Address": {
         "City": "Seoul",
         "Country": "South Korea",
-        "Phone": { "Country Code": 82, "Number": "281-0507" },
+        "Phone": { "Country_Code": 82, "Number": "281-0507" },
         "Street": "1080 Geumhodong 1(il)-ga Seongdong-gu"
       },
       "Company": "Jeongsang Language School",
@@ -188,7 +204,7 @@
       "Address": {
         "City": "Suwon",
         "Country": "South Korea",
-        "Phone": { "Country_Code": 82, "Number": "31-273-3551" },
+        "Phone": { "Area_Code": 31, "Country_Code": 82, "Number": 2733551 },
         "Street": "998-6 Yeongtong-dong, Yeongtong-gu"
       },
       "Company": "Lee's English Institute",
@@ -209,7 +225,7 @@
       "End_Date": "2012-07",
       "Job_Title": "English Convsersation Instructor",
       "Start_Date": "2011-03",
-      "Supervisor": "Aidan Yoo",
+      "Supervisor": null,
       "Type": "Teaching"
     },
     {
@@ -242,5 +258,8 @@
       "Type": "Teaching"
     }
   ],
-  "Professional_Summary": null
+  "Professional_Qualifications": {
+    "Highlights": ["Bullet one.", "Bullet two."],
+    "Summary": "Yadda yadda yadda..."
+  }
 }
