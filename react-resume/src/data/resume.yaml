@@ -71,7 +71,7 @@ Professional_Experience:
         Repo_Link: https://github.com/lraulin/incident-map
         Demo_Link: https://incident-report-map.firebaseapp.com
       - Title: DNS Script
-        Technologies:
+        Environment:
           - Node
           - Linux/Bash
         Description: Created a script to execute dig command against list of domains every hour, store results, and generate a daily report of all DNS record changes that is automatically emailed to a mailing list.
@@ -189,6 +189,8 @@ Military_Service:
     - Top of class in Basic Training.
 Education:
   - Degree: Master of Arts in General Psychology
+    Start_Date:
+    End_Date:
     Area_of_Focus: Attention Disorders
     Institution: Northcentral University
     Address:
@@ -198,6 +200,8 @@ Education:
       State: AZ
       Zip: 85255
   - Degree: Batchelor of Arts in Psychology
+    Start_Date:
+    End_Date:
     Institution: St. Mary's College of Maryland
     Address:
       Street: 47645 College Dr

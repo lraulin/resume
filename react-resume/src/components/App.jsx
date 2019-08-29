@@ -5,7 +5,7 @@ import Section from "./Section";
 import resume from "../data/resume";
 
 function App() {
-  console.log("App.js");
+  console.log("App.jsx");
   console.log();
   return (
     <div>

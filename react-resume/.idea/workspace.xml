@@ -2,13 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="df209656-39ba-471f-8698-08d021664d00" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../convert.sh" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/jsonSchemas.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jsonSchemas.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/About.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Contact.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Resume.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/contact.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/data/about.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/data/story.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pnpm-debug.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/watcherTasks.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/items/ExperienceItem.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/items/ExperienceItem.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/data/convert.sh" beforeDir="false" afterPath="$PROJECT_DIR$/src/data/convert.sh" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/data/resume.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/data/resume.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pnpm-lock.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/pnpm-lock.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/App.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/data/resume_federal.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/data/resume_federal.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/data/~$deral_resume.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -26,17 +34,14 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="y" value="23" />
-    <option name="width" value="1920" />
-    <option name="height" value="941" />
-  </component>
   <component name="ProjectId" id="1OF2QV1zjBF5R4SkxQvXSHsVsLe" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="NewWatcherDialog.advanced.open" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -52,10 +57,11 @@
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="prettierjs.PrettierConfiguration.Package" value="$PROJECT_DIR$/node_modules/prettier" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="watcher.settings" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/data" />
       <recent name="$PROJECT_DIR$/src" />
       <recent name="$PROJECT_DIR$/src/components/data" />
       <recent name="$PROJECT_DIR$/src/components" />
@@ -109,6 +115,10 @@
       <workItem from="1563559012825" duration="76000" />
       <workItem from="1563559108072" duration="25000" />
       <workItem from="1563559150989" duration="619000" />
+      <workItem from="1565275650401" duration="23000" />
+      <workItem from="1565275697733" duration="3719000" />
+      <workItem from="1565620597948" duration="482000" />
+      <workItem from="1565703343312" duration="2507000" />
     </task>
     <servers />
   </component>
@@ -130,5 +140,8 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>
