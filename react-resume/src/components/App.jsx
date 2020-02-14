@@ -4,9 +4,7 @@ import "./Section";
 import Section from "./Section";
 import resume from "../data/resume";
 
-function App() {
-  console.log("App.jsx");
-  console.log();
+const App = () => {
   return (
     <div>
       <Section
@@ -16,6 +14,6 @@ function App() {
       <Section sectionTitle={"Education"} items={resume.Education} />
     </div>
   );
-}
+};
 
 export default App;

@@ -1,6 +1,8 @@
 import React from "react";
 
 const ExperienceItem = ({ degree }) => {
+  console.log("ExperienceItem degree");
+  console.log(degree);
   return (
     <div>
       <h3>{degree.Degree}</h3>
